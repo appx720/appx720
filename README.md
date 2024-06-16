@@ -1,10 +1,7 @@
-🔭 I’m currently working on ... python projects
-
-🌱 I’m currently learning ... computer algorithm
-
-👯 I’m looking to collaborate on ... data analysis
-
-🤔 I’m looking for help with ... c++
+#🔭 I’m currently working on ... python projects
+#🌱 I’m currently learning ... computer algorithm
+#👯 I’m looking to collaborate on ... data analysis
+#🤔 I’m looking for help with ... c++
 
 <!--
 **appx720/appx720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
