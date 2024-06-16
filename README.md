@@ -1,6 +1,9 @@
 🔭 I’m currently working on ... python projects
+
 🌱 I’m currently learning ... computer algorithm
+
 👯 I’m looking to collaborate on ... data analysis
+
 🤔 I’m looking for help with ... c++
 
 <!--
