@@ -15,6 +15,8 @@
 ![C++][C++] ![Javascript][Javascript]
 
 ## 📕 In Github
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=appx720&layout=compact)
 <table>
   <tr>
     <td align="top" width="50%">
@@ -22,7 +24,6 @@
       </td>
   </tr>
 </table>
-<br/>
 
 ## 📞 Contact
 <a href="mailto:yeongjun0807@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
