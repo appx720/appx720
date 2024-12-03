@@ -7,19 +7,21 @@
 
 ## 😊 About me
 **Hi! I'm yeongjun Hwang<br>Beginner programmer in South Korea<br>contribute to my repo to improving my skills!**
+<br>
 
 ## 🛠 My Skills
 ![Python][Python] ![C][C]
+<br>
 
 ## 🏫 What I Learning
 ![C++][C++] ![Javascript][Javascript]
+<br>
 
 ## 🤝 My team
 <a href="https://github.com/comz8"><img src="https://img.shields.io/badge/comz-active-green">
 <a href="https://github.com/Coderear"><img src="https://img.shields.io/badge/Coderear-pause-skyblue">
 
-Always WELCOME to invitation of interesting teams!
-
+Always WELCOME to invitation of interesting teams!<br>
 
 ## 📕 In Github
 
