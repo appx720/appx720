@@ -14,6 +14,13 @@
 ## 🏫 What I Learning
 ![C++][C++] ![Javascript][Javascript]
 
+## 🤝 My team
+<a href="https://github.com/comz8"><img src="https://img.shields.io/badge/comz-active-green">
+<a href="https://github.com/Coderear"><img src="https://img.shields.io/badge/Coderear-pause-skyblue">
+
+Always WELCOME to invitation of interesting teams!
+
+
 ## 📕 In Github
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=appx720&layout=compact)
