@@ -6,7 +6,7 @@
 
 
 ## 😊 About me
-**Hi! I'm yeongjun Hwang**
+**Hi! I'm yeongjun Hwang<br>Beginner programmer in South Korea<br>contribute to my repo to improving my skills!**
 
 ## 🛠 My Skills
 ![Python][Python] ![C][C]
